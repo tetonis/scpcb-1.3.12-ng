@@ -1,5 +1,5 @@
 # scpcb-1.3.12-ng
-A buggy unfinished recompilation of the dev "1.3.12" branch of scp containment breach using blitz3d-ng.\
+A buggy unfinished recompilation of the dev "1.3.12" branch of scp containment breach using blitz3d-ng.
 
 Some things that don't work properly:\
 -Audio issues\
@@ -13,7 +13,7 @@ Some things that don't work properly:\
 -Graphical issues\
   -Bumpmaps don't work at all (another blitz3d-ng "feature")\
   -Monitors have Z-fighting issues\
-  -The blur effect still doesn't display correctly in 1440p (I tried my best to fix it)\
+  -The blur effect still doesn't display correctly in 1440p (I tried my best to fix it)
 
 So what's the point of all this?\
 Well a few improvements you might notice are improved performance (generally), new rooms, reskinned rooms, and 1440p support (ONLY WITH DGVOODOO (https://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/)).\
