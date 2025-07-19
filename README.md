@@ -16,7 +16,7 @@ Some things that don't work properly:\
   -The blur effect still doesn't display correctly in 1440p (I tried my best to fix it)
 
 So what's the point of all this?\
-Well a few improvements you might notice are improved performance (generally), new rooms, reskinned rooms, and 1440p support (ONLY WITH DGVOODOO (https://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/)).\
+Well a few improvements you might notice are improved performance (generally), new rooms, reskinned rooms, and 1440p support (ONLY WITH DGVOODOO (https://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/)). 
 Other than that the game is mostly playable, you should be able to complete the game although I'm yet to do a full run on this build.
 
 Feel free to contribute, the audio streaming issues are top priority at the moment but I'd also like to see the blur effect render properly in 1440p (refer to "Dreamfilter.bb").
